@@ -13,5 +13,5 @@ function happyCustomHolidayTo(holiday, Sean) {
 }
 
 function holidayCountdown(holiday, days) {
-  return `It's ${20} days until ${Easter}!`
+  return `It's ${three} days until ${Easter}!`
 }
